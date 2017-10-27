@@ -9,7 +9,7 @@ public class Principal {
 		//Criar objeto da ControleExibeEmprestimo
 		ControleExibeEmprestimos cee = new ControleExibeEmprestimos();
 		
-		ControlePesquisaUsuario cpu = new ControlePesquisaUsuario("RA1234");
+		ControlePesquisaUsuario cpu = new ControlePesquisaUsuario();
 
 	}
 
